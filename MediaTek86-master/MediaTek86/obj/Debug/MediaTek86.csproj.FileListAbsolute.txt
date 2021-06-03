@@ -1,0 +1,8 @@
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csprojAssemblyReference.cache
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.vue.frmGererAbsence.resources
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.vue.frmListePersonnel.resources
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.Properties.Resources.resources
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.vue.frmModificationAbsence.resources
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.vue.frmModificationPersonnel.resources
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.vue.frmSeConnecter.resources
+C:\Users\nathr\Downloads\MediaTek86-master\MediaTek86-master\MediaTek86\obj\Debug\MediaTek86.csproj.GenerateResource.cache
